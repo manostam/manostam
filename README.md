@@ -7,6 +7,6 @@ comment **manostam/manostam** is a ✨ _special_ ✨ repository because its `REA
 - 👯 I’m looking to collaborate on anything related to the computer science world
 - 📫 How to reach me: [...](https://www.linkedin.com/in/manos-stamatakis-31a681167/)
 - 😄 Pronouns: He/Him
-- (Junior) Skills (so far): C++, Java, Python, SQL, Data Structures Basics, Operating Systems Basics
+- (Junior) Skills: C++, Java, Python, SQL, Data Structures Basics, Operating Systems Basics
 
 
